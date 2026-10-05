@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
+.edge_profile/
+.edge_cache/
+video_frames/
