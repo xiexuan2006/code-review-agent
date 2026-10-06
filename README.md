@@ -1,5 +1,9 @@
 # 代码审查 Agent (Code Review Agent)
 
+> **源代码仓库**：https://github.com/xiexuan2006/code-review-agent （公开仓库，含完整提交历史）
+>
+> **作者**：谢逸轩
+
 基于**通义千问（Qwen）**与**手写 ReAct Agent 循环**的智能代码审查助手。Agent 能够自主推理、调用工具（读取文件、执行 Python 代码验证 Bug），并输出结构化的审查报告。
 
 ## 功能特性
